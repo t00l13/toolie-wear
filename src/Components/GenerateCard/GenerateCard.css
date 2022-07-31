@@ -1,0 +1,9 @@
+.generate-card__button{
+    background-color:#fff;
+    border: 2px solid #9AC2FF ;
+    box-shadow: 1px 1px 10px #9AC2FF;
+    padding: 10px;
+    border-radius:20px;
+    margin-top: 10px;
+    text-align: center;
+}

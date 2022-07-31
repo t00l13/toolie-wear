@@ -1,0 +1,76 @@
+.profile{
+    font-family: 'Despair Display';
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    padding: 20px 0 0 0;
+}
+
+.profile__avatar{
+    max-width: 150px;
+}
+
+.profile__info{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    padding: 10px 0 0 0;
+}
+
+.profile__name{
+    font-size: 26px;
+    margin: 0;
+    padding: 0;
+    padding: 10px 0 0 0;
+}
+
+.profile__description{
+    font-size: 14px;
+    color: #ededed;
+    margin: 0;
+    padding: 0;
+    padding: 10px 0 0 0;
+}
+
+.profile__geo{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+    padding: 10px 0 0 0;
+}
+
+.profile__icon{
+    max-width: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.profile__city{
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    padding-left: 5px;
+}
+
+.profile__category{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    padding-top: 20px;
+}
+
+.profile__category__icon{
+    padding-top: 20px;
+    max-width: 80px;
+}
+
+.profile__category__item{
+    padding: 0;
+    margin: 0;
+    padding-top: 15px;
+    color: #ededed;
+    font-size: 20px;
+}
+

@@ -1,0 +1,30 @@
+.main{
+    
+}
+
+
+.generate__button{
+    height: 50px;
+    background-color:#fff;
+    border-radius:20px;
+    border:none;
+    color:#9AC2FF;
+    font-family: 'Despair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 34px;
+    padding: 10px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.generate__icon{
+    width: 18px;
+    height: 18px;
+    margin-left: 5px;
+}
