@@ -15,13 +15,13 @@ const tShirtList = [
         id: 3,
         category: 'Футболки',
         title: 'Gray t-shirt',
-        link: 'https://thumb.tildacdn.com/tild6435-6134-4936-b332-356633353265/-/format/webp/84DB1338-DB94-4C4C-A.png',
+        link: 'https://thumbor9.kiiiosk.store/unsafe/916x/https://aws.kiiiosk.store/uploads/shop/2237/uploads/product_image/image/748048/18_1.jpg',
     },
     {
         id: 4,
         category: 'Футболки',
         title: 'White t-shirt',
-        link: 'https://thumb.tildacdn.com/tild3332-6537-4863-a561-626166316663/-/format/webp/BD381648-6002-455D-9.png',
+        link: 'https://rndm.store/images/goods_media/FR2_TBj_tab.jpg',
     },
     {
         id: 5,
@@ -58,6 +58,18 @@ const shortsList = [
         category: 'Шорты',
         title: 'Blue t-shirt',
         link: 'https://thumbor9.kiiiosk.store/unsafe/916x/https://aws.kiiiosk.store/uploads/shop/2237/uploads/product_image/image/745505/_________________________.jpg',
+    },
+    {
+        id: 3,
+        category: 'Шорты',
+        title: 'Blue t-shirt',
+        link: 'https://golden-line.ru/images/cms/data/goldenline/catalog/20273_tser/20273_tser_1.jpg',
+    },
+    {
+        id: 4,
+        category: 'Шорты',
+        title: 'Blue t-shirt',
+        link: 'https://cdn-images.farfetch-contents.com/16/84/35/11/16843511_33396227_1000.jpg',
     },
 ]
 
@@ -124,6 +136,12 @@ const hoodieList = [
         category: 'Толстовка',
         title: 'White t-shirt',
         link: 'https://haliky.com/wp-content/uploads/2022/05/halkpink39-scaled.jpg',
+    },
+    {
+        id: 6,
+        category: 'Толстовка',
+        title: 'White t-shirt',
+        link: 'https://rndm.store/images/goods_media/HOODIE_SD_W2_tab.jpg',
     },
 ]
 

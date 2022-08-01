@@ -11,7 +11,7 @@
     display: flex;
     visibility: hidden;
     opacity: 0;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.8);
     transition: visibility .5s, opacity 0.5s linear;
     z-index: 100;
   }
@@ -22,41 +22,40 @@
   }
 
   .popup__title{
-    text-align: center;
-    font-size: 24px;
+    font-size: 28px;
     line-height: 22px;
     margin: 0;
     padding: 0;
     margin-bottom: 20px;
+    margin-left: 10px;
   }
 
   .popup__container{
-    background-color: #fff;
-    color:#9AC2FF;
+    background-color: #90C4FF;
+    color:#fff;
     font-family: 'Despair Display';
     position: fixed;
-    min-width: 282px;
+    min-width: calc(100% - 32px);
     margin: 0 auto;
     padding: 25px 22px;
     border-radius: 10px;
-    box-shadow: 0 0 25px rgb(0 0 0 / 15%);
+    box-shadow: 0 0 25px rgb(0 0 0 / 95%);
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
   }
 
   .popup__btn-close{
-    background-image: url('../../images/close.svg');
+    background-image: url('../../images/button__close.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
     background-color: transparent;
     border: none;
     cursor: pointer;
-    height: 40px;
-    width: 40px;
-    right: 0;
-    top: -45px;
+    height: 30px;
+    width: 30px;
+    right: 24px;
     margin: 0;
     padding: 0;
     position: absolute;

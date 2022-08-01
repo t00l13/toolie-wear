@@ -1,9 +1,16 @@
 .generate-card__button{
     background-color:#fff;
     border: 2px solid #9AC2FF ;
-    box-shadow: 1px 1px 10px #9AC2FF;
+    box-shadow: 1px 1px 10px #777777;
     padding: 10px;
     border-radius:20px;
     margin-top: 10px;
     text-align: center;
+    color: #9AC2FF;
+    font-size: 24px;
+}
+
+.generate-card__wrapper{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }

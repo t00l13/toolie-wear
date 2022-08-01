@@ -17,6 +17,7 @@ function App() {
   }
   
   return (
+    <>
     <div className='container'>
       <Header></Header>
       <Main 
@@ -26,8 +27,9 @@ function App() {
       isOpen={isGenerateClothesPopupOpen}
       onClose={closeAllPopup}
       ></GenerateCard>
-      <Footer></Footer>
     </div>
+      <Footer></Footer>
+    </>
   );
 }
 

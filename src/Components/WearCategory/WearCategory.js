@@ -24,10 +24,10 @@ function WearCategory(props) {
         <div className='wear-category'>
             <div className='wear-category__add-area'>
                 <h2 className='wear-category__title'>{props.category}</h2>
-                <button className='wear-category__add-button' onClick={handlePrev}></button>
+                <button className='wear-category__add-button'></button>
             </div>
             <div className='wear-category__clothes'>
-                <button className='wear-category__prev'></button>
+                <button className='wear-category__prev' onClick={handlePrev}></button>
                 <Swiper className='wear-category__list'
                 modules={[Navigation, Pagination, A11y]}
                 ref={sliderRef}
@@ -40,7 +40,7 @@ function WearCategory(props) {
                 navigation
                 >
                 {props.array.map((card, i) =>(
-                    <SwiperSlide key={card.id} className='wear-category__card'><img className='wear-category__img' src={card.link}></img></SwiperSlide>
+                    <SwiperSlide id={props.id} key={card.id} className='wear-category__card'><img className='wear-category__img' src={card.link}></img></SwiperSlide>
                 ))}
 
                 </Swiper>
