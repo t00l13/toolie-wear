@@ -36,7 +36,7 @@ function AddClothes({isOpen,onClose, submitButton, onAddItem}) {
         <form className='add-clothes__area' onSubmit={handleSubmit}>
             <h3 className='add-clothes__input__title'>✨ Выберите категорию ✨</h3>
             <select value={category} onChange={handleInCategory} className='add-clothes__input'  required>
-                <option></option>
+                <option> </option>
                 <option value={'Футболки'} className='add-clothes__item'>Футболки</option>
                 <option value={'Штаны'} className='add-clothes__item'>Штаны</option>
                 <option value={'Толстовка'} className='add-clothes__item'>Толстовки</option>
