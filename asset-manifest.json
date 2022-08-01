@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/toolie-wear/static/css/main.6664fa20.css",
-    "main.js": "/toolie-wear/static/js/main.0d3660ce.js",
+    "main.js": "/toolie-wear/static/js/main.959ffa2c.js",
     "static/js/787.8371b687.chunk.js": "/toolie-wear/static/js/787.8371b687.chunk.js",
     "static/media/FooterLogo.png": "/toolie-wear/static/media/FooterLogo.ffad9792ba5303b13065.png",
     "static/media/Inter-ExtraBold.woff": "/toolie-wear/static/media/Inter-ExtraBold.d0fa3bb2b7c9063dc594.woff",
@@ -28,11 +28,11 @@
     "static/media/profileGeoIcon.svg": "/toolie-wear/static/media/profileGeoIcon.ecc83c8959ca742cf313f640455c73ae.svg",
     "static/media/add-button.svg": "/toolie-wear/static/media/add-button.2bcbb276eb5f0c02be131ac125b1df41.svg",
     "main.6664fa20.css.map": "/toolie-wear/static/css/main.6664fa20.css.map",
-    "main.0d3660ce.js.map": "/toolie-wear/static/js/main.0d3660ce.js.map",
+    "main.959ffa2c.js.map": "/toolie-wear/static/js/main.959ffa2c.js.map",
     "787.8371b687.chunk.js.map": "/toolie-wear/static/js/787.8371b687.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6664fa20.css",
-    "static/js/main.0d3660ce.js"
+    "static/js/main.959ffa2c.js"
   ]
 }
