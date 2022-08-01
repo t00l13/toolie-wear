@@ -65,3 +65,14 @@
   .popup__btn-close:hover{
       opacity: 0.6;
   }
+
+  .popup__btn-save{
+    border: 3px solid #fff;
+    background-color:#fff;
+    padding: 10px;
+    border-radius:20px;
+    color:#90C4FF;
+    text-align: center;
+    align-self: center;
+    box-shadow: 1px 1px 10px #fff;
+  }

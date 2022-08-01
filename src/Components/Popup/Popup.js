@@ -1,7 +1,7 @@
 import React from 'react';
 import '../Popup/Popup.css'
 
-function Popup({name, title, isOpen, onClose, children}) {
+function Popup({name, title, isOpen, onClose, children, btnName}) {
 
 React.useEffect(() => {
 

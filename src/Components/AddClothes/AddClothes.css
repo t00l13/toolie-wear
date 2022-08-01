@@ -1,0 +1,30 @@
+.add-clothes__area{
+    display: flex;
+    flex-direction: column;
+}
+.add-clothes__input {
+    border: 3px solid #90C4FF;
+    background-color:#fff;
+    padding: 10px;
+    border-radius:20px;
+    margin-bottom: 20px;
+    color:#90C4FF;
+}
+.add-clothes__save{
+    border: 3px solid #fff;
+    background-color:#fff;
+    padding: 10px;
+    border-radius:20px;
+    color:#90C4FF;
+    text-align: center;
+    align-self: center;
+    box-shadow: 1px 1px 10px #fff;
+}
+.add-clothes__input__title{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 5px;
+    font-size: 16px;
+    color:#e1e1e1;
+    text-shadow: 1px 1px 5px #828282;
+}
