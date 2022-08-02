@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/toolie-wear/static/css/main.326fbafe.css",
-    "main.js": "/toolie-wear/static/js/main.959ffa2c.js",
+    "main.css": "/toolie-wear/static/css/main.dc4591e4.css",
+    "main.js": "/toolie-wear/static/js/main.7c01dc3c.js",
     "static/js/787.8371b687.chunk.js": "/toolie-wear/static/js/787.8371b687.chunk.js",
     "static/media/FooterLogo.png": "/toolie-wear/static/media/FooterLogo.ffad9792ba5303b13065.png",
     "static/media/Inter-ExtraBold.woff": "/toolie-wear/static/media/Inter-ExtraBold.d0fa3bb2b7c9063dc594.woff",
@@ -12,6 +12,7 @@
     "static/media/Inter-Medium.woff2": "/toolie-wear/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
     "static/media/Inter-Black.woff2": "/toolie-wear/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
     "static/media/Inter-Regular.woff2": "/toolie-wear/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/welcomePerson.png": "/toolie-wear/static/media/welcomePerson.40416e536e68331d08c7.png",
     "static/media/1111.png": "/toolie-wear/static/media/1111.d060726767dff4050e50.png",
     "static/media/profileAvatar.png": "/toolie-wear/static/media/profileAvatar.67e626ab66bdbb30b349.png",
     "static/media/HeaderLogo.svg": "/toolie-wear/static/media/HeaderLogo.5fd2220fdc5628a4b1b2cecb503c0961.svg",
@@ -20,19 +21,26 @@
     "static/media/discord.svg": "/toolie-wear/static/media/discord.871a8fe5c920c1b6e01c492c9b3918e7.svg",
     "static/media/figma.svg": "/toolie-wear/static/media/figma.6d26f50ae5c801f8170b5a70900c00b6.svg",
     "static/media/telegram.svg": "/toolie-wear/static/media/telegram.7f4cd37b72b563dba2e68ad89f9d1fb7.svg",
+    "static/media/icon5.svg": "/toolie-wear/static/media/icon5.dc0555a2fc1fdd2c5627fd10f8b4594d.svg",
+    "static/media/icon1.svg": "/toolie-wear/static/media/icon1.6f95c44c30cb328106d62c0d787c96ce.svg",
+    "static/media/icon2.svg": "/toolie-wear/static/media/icon2.c3682d14f23063a5e7100bc30c1dd6eb.svg",
     "static/media/button__close.svg": "/toolie-wear/static/media/button__close.cc4bf5434129291905cb.svg",
     "index.html": "/toolie-wear/index.html",
+    "static/media/signIn.svg": "/toolie-wear/static/media/signIn.96fabcef30e55acc0810.svg",
+    "static/media/icon4.svg": "/toolie-wear/static/media/icon4.d088317c16753b7ee4949a072ef6231e.svg",
+    "static/media/logOut.svg": "/toolie-wear/static/media/logOut.7984ac7108d5718974c1.svg",
+    "static/media/icon3.svg": "/toolie-wear/static/media/icon3.1c1409a8f1b4c86a9696feee13d57db9.svg",
     "static/media/generateIcon.svg": "/toolie-wear/static/media/generateIcon.b851d02c7d8f027b9536121fa4e23676.svg",
     "static/media/next.svg": "/toolie-wear/static/media/next.affc9db076c2ce4b67d8.svg",
     "static/media/perv.svg": "/toolie-wear/static/media/perv.3b7e58d7aa7d62d73ed8.svg",
     "static/media/profileGeoIcon.svg": "/toolie-wear/static/media/profileGeoIcon.ecc83c8959ca742cf313f640455c73ae.svg",
     "static/media/add-button.svg": "/toolie-wear/static/media/add-button.2bcbb276eb5f0c02be131ac125b1df41.svg",
-    "main.326fbafe.css.map": "/toolie-wear/static/css/main.326fbafe.css.map",
-    "main.959ffa2c.js.map": "/toolie-wear/static/js/main.959ffa2c.js.map",
+    "main.dc4591e4.css.map": "/toolie-wear/static/css/main.dc4591e4.css.map",
+    "main.7c01dc3c.js.map": "/toolie-wear/static/js/main.7c01dc3c.js.map",
     "787.8371b687.chunk.js.map": "/toolie-wear/static/js/787.8371b687.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.326fbafe.css",
-    "static/js/main.959ffa2c.js"
+    "static/css/main.dc4591e4.css",
+    "static/js/main.7c01dc3c.js"
   ]
 }
