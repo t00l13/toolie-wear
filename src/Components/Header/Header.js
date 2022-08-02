@@ -6,6 +6,7 @@ function Header(props) {
     return (
         <div className='header'>
             <img className='header__logo' src={HeaderLogo}></img>
+            {props.children}
         </div>
     );
 }

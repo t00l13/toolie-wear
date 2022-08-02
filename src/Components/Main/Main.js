@@ -9,7 +9,6 @@ function Main(props) {
 
     return (
         <div className='main'>
-            <Profile></Profile>
             <button onClick={props.onGenerateClothes} className='generate__button'>Generate <img className='generate__icon' src={GenerateIcon}></img></button>
             <button onClick={props.onAddClothes} className='generate__button'>Добавить одежду<img className='add-button' src={AddIcon}></img></button>
             <WearCategory

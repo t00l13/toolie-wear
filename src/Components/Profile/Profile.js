@@ -12,7 +12,7 @@ function Profile(props) {
             <div className='profile__wrapper'>
                 <img className='profile__avatar' src={ProfileAvatar}></img>
                 <div className='profile__info'>
-                    <h2 className='profile__name'>Nastiem</h2>
+                    <h2 className='profile__name'>{props.name}</h2>
                     <p className='profile__description'>Young designer (junior)</p>
                     <div className='profile__geo'>
                         <img className='profile__icon' src={profileGeoIcon}></img>
